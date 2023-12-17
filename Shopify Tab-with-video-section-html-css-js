@@ -4,7 +4,7 @@
 
     <div class="video-single current" id="vid-1">
       <div class="embed-container">
-          <video id="gallery-video"  playsinline autoplay muted loop src="https://cdn.shopify.com/videos/c/o/v/9bf41c7b0b824438a877112b0fbb266b.mp4">
+          <video id="gallery-video"  playsinline autoplay muted loop src="">
     <source src="" type="video/mp4">
   </video>
       </div>
@@ -13,7 +13,7 @@
     <div class="video-single" id="vid-2">
       <div class="embed-container">
        
-    <video id="gallery-video"  playsinline autoplay muted loop src="https://cdn.shopify.com/videos/c/o/v/f2baed30b4ed453580261623b9e8405a.mp4">
+    <video id="gallery-video"  playsinline autoplay muted loop src=">
     <source src="" type="video/mp4">
   </video>
       </div>
@@ -21,7 +21,7 @@
     
     <div class="video-single" id="vid-3">
       <div class="embed-container">
-           <video id="gallery-video"  playsinline autoplay muted loop src="https://cdn.shopify.com/videos/c/o/v/9bf41c7b0b824438a877112b0fbb266b.mp4">
+           <video id="gallery-video"  playsinline autoplay muted loop src="">
     <source src="" type="video/mp4">
   </video>
       </div>
@@ -29,7 +29,7 @@
 
     <div class="video-single" id="vid-4">
       <div class="embed-container">
-           <video id="gallery-video"  playsinline autoplay muted loop src="https://cdn.shopify.com/videos/c/o/v/f2baed30b4ed453580261623b9e8405a.mp4">
+           <video id="gallery-video"  playsinline autoplay muted loop src="">
     <source src="" type="video/mp4">
   </video>
       </div>
@@ -37,7 +37,7 @@
 
     <div class="video-single" id="vid-5">
       <div class="embed-container">
-           <video id="gallery-video"  playsinline autoplay muted loop src="https://cdn.shopify.com/videos/c/o/v/9bf41c7b0b824438a877112b0fbb266b.mp4">
+           <video id="gallery-video"  playsinline autoplay muted loop src="">
     <source src="" type="video/mp4">
   </video>
       </div>
